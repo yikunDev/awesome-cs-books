@@ -96,8 +96,16 @@
 
 
 # C语言
-- C和指针     [百度云下载](https://pan.baidu.com/s/19ge4siqp2bTxZF8KjgL3bQ) 提取码：lvp5
-- C陷阱与缺陷     [百度云下载](https://pan.baidu.com/s/1jEpWUPUFX8To1E_IEDK70A) 提取码：s46w
+- C Primer Plus 第6版 中文版   [百度云下载](https://pan.baidu.com/s/1YG585yRGKFWlMBFIQe64HA ) 提取码：qf2p
+- 明解C语言·入门篇 第3版      [百度云下载](https://pan.baidu.com/s/14HM1mCzdnzcyPpyMK5DsEw) 提取码：v0hg
+- C和指针     [百度云下载](https://pan.baidu.com/s/1FMtdFYRVfVIRMA_aOwCNRA) 提取码：464z
+- C陷阱与缺陷     [百度云下载](https://pan.baidu.com/s/1f7_0CRWYPipsYp__iXuF_Q) 提取码：c7wm
+- C语言程序设计_现代方法     [百度云下载](https://pan.baidu.com/s/1mB7jqaZ3B5u4Wkn7XTGkTA) 提取码：l9n3
+- C程序设计语言（第2版 新版）     [百度云下载](https://pan.baidu.com/s/1ksWoLTjG1iYN2y6nJpedGA) 提取码：40bc
+- C程序设计语言（第2版 新版）习题解答     [百度云下载](https://pan.baidu.com/s/1CP_86lKofJIXV2meD6Zz3w) 提取码：7lyg
+- 啊哈C语言     [百度云下载](https://pan.baidu.com/s/1Cx4nZ6n_HPgAzUK4sDGjHw) 提取码：kx4h
+- C专家编程     [百度云下载](https://pan.baidu.com/s/1M4b2lX0kON3-HVMMCK3adg) 提取码：e64e
+
 
 
 # C++
