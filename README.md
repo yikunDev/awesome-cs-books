@@ -19,6 +19,8 @@
 >**重要说明**：点击下列目录直接跳转书籍所在类别，但有时目录跳转会失灵（手机是绝对跳转不了的了）如果没有没有正常跳转可以动动小手向下拉即可，全部的书籍都在本页面，善用搜索 `CTRL + F` 。
 
 
+- [C语言](#c语言)
+- [C++](#c)
 - [大神刷题笔记](#大神刷题笔记)
 - [计算机基础](#计算机基础)
 - [计算机网络](#计算机网络)
@@ -27,8 +29,6 @@
 - [Linux](#linux)
 - [网络编程](#网络编程)
 - [程序员面试](#程序员面试)
-- [C语言](#c语言)
-- [C++](#c)
 - [Java](#java)
 - [Go](#go)
 - [Python](#python)
@@ -38,6 +38,40 @@
 - [架构与微服务](#架构与微服务)
 - [50本经典打包下载](#50本经典打包下载)
 - [免责声明](#免责声明)
+
+
+# C语言
+- C Primer Plus 第6版 中文版   [百度云下载](https://pan.baidu.com/s/1tDd2Gn74kb2ojzuNmiBz1A) 提取码：zpo9
+- 明解C语言·入门篇 第3版      [百度云下载](https://pan.baidu.com/s/1v9DouLE8yQnIzcZkeJLeUw) 提取码：0rn1
+- C和指针     [百度云下载](https://pan.baidu.com/s/1NfPUEEdRvIjj0_VBsBAaGg) 提取码：ih4t
+- C陷阱与缺陷     [百度云下载](https://pan.baidu.com/s/1Oc-5bocxg4bVUld-3msVXQ) 提取码：xjsn
+- C语言程序设计_现代方法     [百度云下载](https://pan.baidu.com/s/1Ht1mI_3DjuWaByzmQWbvGQ) 提取码：ilcx
+- C程序设计语言（第2版 新版）     [百度云下载](https://pan.baidu.com/s/1ksWoLTjG1iYN2y6nJpedGA) 提取码：40bc
+- C程序设计语言（第2版 新版）习题解答     [百度云下载](https://pan.baidu.com/s/1l9eLR0fZCJ-_FhrPEwA5tw) 提取码：5txu
+- 啊哈C语言     [百度云下载](https://pan.baidu.com/s/15x7YXdeEesJXkwV_S9QsqA) 提取码：zmu6
+- C专家编程     [百度云下载](https://pan.baidu.com/s/1rT4jCl9j7tKsL8ZYyovVmQ) 提取码：rfix
+
+
+# C++
+- C++ Primer Plus 第六版  [百度云下载](https://pan.baidu.com/s/1TPOCW6U0Xp3y1qrn_26yHQ) 提取码：lxxh
+- C++ Primer第五版     [百度云下载](https://pan.baidu.com/s/1q1nQidBMbnLrKNnXuGrO4g) 提取码：s7nb
+- 深入理解C++11新特性解析与应用  [百度云下载](https://pan.baidu.com/s/1VuJvJlGtMEBfTAnatPc-Nw) 提取码：zq43
+- 深度探索C++对象模型扫描版 [百度云下载](https://pan.baidu.com/s/1Dvfr71k7e-f__K8Gg-fZ4Q)  提取码：74y1
+- C++程序设计语言   [百度云下载](https://pan.baidu.com/s/1Txkr8udSzXgPuHri4_D1sA)  提取码：hy1y
+- C++ Primer第四版     [百度云下载](https://pan.baidu.com/s/1zQrf7HRL-6MRevAB__2Mkw) 提取码：c0xr
+- 现代C++高速上手   [百度云下载](https://pan.baidu.com/s/1KNvTLWiSVDI0-M9P4bkCTQ)  提取码：ea12
+- 大话设计模式C++   [百度云下载](https://pan.baidu.com/s/19tigf2AtqUbJQyuh6Lswyw)  提取码：7rgc
+- Effective C++ 第三版   [百度云下载](https://pan.baidu.com/s/1d8eSWKbzK3lqhfYBrkcZvw)  提取码：fdzl
+- Modern C++ Design    [百度云下载](https://pan.baidu.com/s/1JsasiwhCSKSRifSM1WbHfA)  提取码：2jwm
+- effect_modern_cpp_zh    [百度云下载](https://pan.baidu.com/s/1LYawy8RNJh0A7tOXl-Bnrg)  提取码：9r1r
+- C++设计新思维-泛型编程与设计之应用    [百度云下载](https://pan.baidu.com/s/1onKONA_cnenYkjH9tSpQ0g)  提取码：4mjz
+- C++编程思想（两卷合订本）   [百度云下载](https://pan.baidu.com/s/1UBXc5Cj6cUFb_UU4QWUReg)  提取码：m4lo 
+- 陈硕-C++实践工程学    [百度云下载](https://pan.baidu.com/s/1O9jpRLV9W1DbsLuzHNvKKA)  提取码：v3hh
+- Effective STL中文版    [百度云下载](https://pan.baidu.com/s/1P3LqUBfbZEc-waNf1IlLTg)   提取码：c6i3
+- C++标准程序库    [百度云下载](https://pan.baidu.com/s/11wdmgaU3XhUK1abGFSQmFw)  提取码：ayz2
+- C++编程规范-101条规则准则与最佳实践    [百度云下载](https://pan.baidu.com/s/1MemWcgvi0vy5E9Aippusmw)  提取码：vyom
+- C++编程调试秘笈    [百度云下载](https://pan.baidu.com/s/1HsI8qsjeoqFzV35KVIrnhA)  提取码：cnda
+- C++17-STL-Cookbook-zh    [百度云下载](https://pan.baidu.com/s/13aJCrOxXGMzQI_rR41eZag)   提取码：l9xp
 
 
 # 大神刷题笔记
@@ -94,26 +128,6 @@
 - 程序员的自我修养—链接、装载与库     [百度云下载](https://pan.baidu.com/s/1sqqEi75OpKgdmd378XkT-Q) 提取码：y2j1
 - 代码整洁之道     [百度云下载](https://pan.baidu.com/s/1ScI9nEPvxYUT9FhpjQciuQ) 提取码 k5by
 
-
-# C语言
-- C Primer Plus 第6版 中文版   [百度云下载](https://pan.baidu.com/s/1YG585yRGKFWlMBFIQe64HA ) 提取码：qf2p
-- 明解C语言·入门篇 第3版      [百度云下载](https://pan.baidu.com/s/14HM1mCzdnzcyPpyMK5DsEw) 提取码：v0hg
-- C和指针     [百度云下载](https://pan.baidu.com/s/1FMtdFYRVfVIRMA_aOwCNRA) 提取码：464z
-- C陷阱与缺陷     [百度云下载](https://pan.baidu.com/s/1f7_0CRWYPipsYp__iXuF_Q) 提取码：c7wm
-- C语言程序设计_现代方法     [百度云下载](https://pan.baidu.com/s/1mB7jqaZ3B5u4Wkn7XTGkTA) 提取码：l9n3
-- C程序设计语言（第2版 新版）     [百度云下载](https://pan.baidu.com/s/1ksWoLTjG1iYN2y6nJpedGA) 提取码：40bc
-- C程序设计语言（第2版 新版）习题解答     [百度云下载](https://pan.baidu.com/s/1CP_86lKofJIXV2meD6Zz3w) 提取码：7lyg
-- 啊哈C语言     [百度云下载](https://pan.baidu.com/s/1Cx4nZ6n_HPgAzUK4sDGjHw) 提取码：kx4h
-- C专家编程     [百度云下载](https://pan.baidu.com/s/1M4b2lX0kON3-HVMMCK3adg) 提取码：e64e
-
-
-
-# C++
-- 深入理解C++11新特性解析与应用     [百度云下载](https://pan.baidu.com/s/1rP6OjhdUkrSzrmi9G1GuPw) 提取码：v1ju
-- 深度探索C++对象模型     [百度云下载](https://pan.baidu.com/s/1WYBUCEwSD8mRW5ngu9mrHA) 提取码：1hcs
-- 现代C++高速上手     [百度云下载](https://pan.baidu.com/s/129SQtzRt1y05lRcqDsWYfQ) 提取码：63f8
-- C++ Primer第四版     [百度云下载](https://pan.baidu.com/s/1rpZpGRHrBPXn9q27gNjc8w) 提取码：1oqo
-- Effective C++     [百度云下载](https://pan.baidu.com/s/1s-xXBRE2vL5oqdjGpCPmbA) 提取码：g5px
 
 # Java
 - 深入理解Java虚拟机（第二版-带目录）     [百度云下载](https://pan.baidu.com/s/1qMW_dR0IAetbcbu9gUrODA) 提取码：fi77
