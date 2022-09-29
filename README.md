@@ -19,9 +19,10 @@
 >**重要说明**：点击下列目录直接跳转书籍所在类别，但有时目录跳转会失灵（手机是绝对跳转不了的了）如果没有没有正常跳转可以动动小手向下拉即可，全部的书籍都在本页面，善用搜索 `CTRL + F` 。
 
 
+- [知名大学计算机系开源课程收录](#知名大学计算机系开源课程收录)
 - [C语言](#c语言)
 - [C++](#c)
-- [大神刷题笔记](#大神刷题笔记)
+- [LeetCode算法刷题笔记](#leetcode算法刷题笔记)
 - [计算机基础](#计算机基础)
 - [计算机网络](#计算机网络)
 - [算法与数据结构](#算法与数据结构)
@@ -40,6 +41,15 @@
 - [免责声明](#免责声明)
 
 
+# 知名大学计算机系开源课程收录
+- [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)  
+- [浙江大学课程攻略共享计划-离线下载版](https://pan.baidu.com/s/1ktoppJ6qK7hcn3c5V4fXMA) 提取码：lvnt
+- [清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/)  
+- [上海交通大学课程资料分享](https://github.com/kxxwz/SJTU-Courses)   
+- [北京航空航天大学(北航)课程作业资料共享计划](https://github.com/TheBloodthirster/BUAA_Course_Sharing)  
+- [华北电力大学计算机系课程攻略](https://github.com/IammyselfYBX/NCEPU_CS_course)  
+  
+  
 # C语言
 - C Primer Plus 第6版 中文版   [百度云下载](https://pan.baidu.com/s/1tDd2Gn74kb2ojzuNmiBz1A) 提取码：zpo9
 - 明解C语言·入门篇 第3版      [百度云下载](https://pan.baidu.com/s/1v9DouLE8yQnIzcZkeJLeUw) 提取码：0rn1
@@ -74,7 +84,7 @@
 - C++17-STL-Cookbook-zh    [百度云下载](https://pan.baidu.com/s/13aJCrOxXGMzQI_rR41eZag)   提取码：l9xp
 
 
-# 大神刷题笔记
+# LeetCode算法刷题笔记
 - 阿里大神LeetCode刷题笔记 Go语言版本  [百度云下载](https://pan.baidu.com/s/187fKVYl1jKw9VmZFPQBU9A) 提取码：m6ec
 - LeetCode刷题笔记 C++版本题解         [百度云下载](https://pan.baidu.com/s/1GYeVk9cqyAxSnLAMdyKmvA) 提取码：5rmd
 - 谷歌工程师 LeetCode C++刷题笔记  [百度云下载链接](https://pan.baidu.com/s/1CLKdJY8050FsmjmwBT8HmA ) 提取码：yeml
